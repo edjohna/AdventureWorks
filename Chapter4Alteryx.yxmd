@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Biketastic_*</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesOrderNumber" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="OrderDate" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="CountryRegionCode" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="Category" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="ResellerName" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="NumberEmployees" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="YearOpened" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="SalesAmount" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="TotalProductCost" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="OrderQuantity" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="DaysOfRent" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="UnitPrice" size="254" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_*" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="246" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\EAGUIL~1\AppData\Local\Temp\Engine_12056_4077391e2d23411c8ba476549b078a02_\Engine_14936_01fff3a9b7554c8780507662f30f2195_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Biketastic_GB.xlsx
+Query=`Sales Figures$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesOrderNumber" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="V_String" />
+            <Field name="OrderDate" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Date" />
+            <Field name="CountryRegionCode" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="V_String" />
+            <Field name="Category" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="V_String" />
+            <Field name="ResellerName" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="V_String" />
+            <Field name="NumberEmployees" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="YearOpened" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="Region" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="V_String" />
+            <Field name="SalesAmount" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="TotalProductCost" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="OrderQuantity" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="DaysOfRent" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+            <Field name="UnitPrice" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\Chapter4_Co_Create_Input_Alteryx\Biketastic_GB.xlsx|||`Sales Figures$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="246" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="354" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\EAGUIL~1\AppData\Local\Temp\Engine_12056_4077391e2d23411c8ba476549b078a02_\Engine_14936_7164d505b3b849d797e5f6a1545c00d4_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Chapter4Alteryx</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

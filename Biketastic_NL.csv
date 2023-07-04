@@ -1,0 +1,845 @@
+SalesOrderNumber,OrderDate,CountryRegionCode,Category,ResellerName,NumberEmployees,YearOpened,Region,SalesAmount,TotalProductCost,OrderQuantity,DaysOfRent,UnitPrice
+OrNo.100300,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,581.75,430.495,1,308,581.75
+OrNo.106000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,442,163.54,2,77,221
+OrNo.112000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,80.5,59.57,1,28,80.5
+OrNo.114000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,442,163.54,2,77,221
+OrNo.116900,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,201,74.37,2,35,100.5
+OrNo.120500,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,674.5,499.13,1,357,674.5
+OrNo.124100,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,449.5,166.315,2,119,224.75
+OrNo.126800,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,648,479.52,1,343,648
+OrNo.130000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,542.25,401.265,1,287,542.25
+OrNo.134800,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,224.75,166.315,1,119,224.75
+OrNo.140000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,634.75,469.715,1,336,634.75
+OrNo.140700,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,674.5,499.13,1,357,674.5
+OrNo.242000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,10,3.7,2,1,5
+OrNo.266000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,120.5,89.17,1,42,120.5
+OrNo.305000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,595,440.3,1,315,595
+OrNo.325000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,317.5,234.95,1,168,317.5
+OrNo.364000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,502.5,371.85,1,266,502.5
+OrNo.384000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,172,127.28,1,91,172
+OrNo.447000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,542.25,401.265,1,287,542.25
+OrNo.500000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,515.75,381.655,1,273,515.75
+OrNo.523000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,449.75,332.815,1,238,449.75
+OrNo.567000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,820,303.4,2,217,410
+OrNo.606000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,304.25,225.145,1,161,304.25
+OrNo.664000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,60.25,44.585,1,21,60.25
+OrNo.688000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,581.75,430.495,1,308,581.75
+OrNo.701000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,648,479.52,1,343,648
+OrNo.731000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,595,440.3,1,315,595
+OrNo.751000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,516,127.28,3,91,172
+OrNo.770000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,180.75,133.755,1,63,180.75
+OrNo.832000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,1349,499.13,2,357,674.5
+OrNo.920000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,436.5,323.01,1,231,436.5
+OrNo.989000,2018-01-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,899.5,332.815,2,238,449.75
+OrNo.478900,2018-02-08,NL,E-Bikes,Biketastic Netherlands,6,2012,EU,5643,1655.28,3,,1881
+OrNo.125073,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,15.25,11.285,1,5,15.25
+OrNo.253500,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,151.75,112.295,1,105,151.75
+OrNo.263800,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,495.5,366.67,1,343,495.5
+OrNo.269000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,343.75,254.375,1,238,343.75
+OrNo.275600,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,135.5,100.27,1,70,135.5
+OrNo.283130,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,131.5,97.31,1,91,131.5
+OrNo.285000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,424.75,314.315,1,294,424.75
+OrNo.297700,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,182,134.68,1,126,182
+OrNo.299500,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,384.25,284.345,1,266,384.25
+OrNo.301300,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,54.25,40.145,1,28,54.25
+OrNo.305100,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,222.5,164.65,1,154,222.5
+OrNo.309500,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,162.5,120.25,1,84,162.5
+OrNo.313000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,122,90.28,1,63,122
+OrNo.315700,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,189.5,70.115,2,49,94.75
+OrNo.317800,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,263,194.62,1,182,263
+OrNo.327600,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,54.25,40.145,1,28,54.25
+OrNo.329100,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,414.5,306.73,1,287,414.5
+OrNo.339700,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,647,239.39,2,224,323.5
+OrNo.345100,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,374.25,276.945,1,259,374.25
+OrNo.351300,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,192.25,142.265,1,133,192.25
+OrNo.353200,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,515.75,381.655,1,357,515.75
+OrNo.369000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,525.75,389.055,1,364,525.75
+OrNo.373200,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,424.75,314.315,1,294,424.75
+OrNo.659700,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,293.25,217.005,1,203,293.25
+OrNo.661900,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,283.25,209.605,1,196,283.25
+OrNo.667600,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,384.25,284.345,1,266,384.25
+OrNo.669800,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,252.75,187.035,1,175,252.75
+OrNo.671400,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,23.25,17.205,1,12,23.25
+OrNo.673700,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,149,110.26,1,77,149
+OrNo.693600,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,505.5,187.035,2,175,252.75
+OrNo.697800,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,333.75,246.975,1,231,333.75
+OrNo.705300,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,606.5,224.405,2,210,303.25
+OrNo.707900,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,515.75,381.655,1,357,515.75
+OrNo.719000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,244,90.28,2,63,122
+OrNo.723300,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,445,164.65,2,154,222.5
+OrNo.740000,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,151.75,112.295,1,105,151.75
+OrNo.744300,2018-02-18,NL,Bike Rental,Biketastic Netherlands,6,2012,EU,323.5,239.39,1,224,323.5
+OrNo.477100,2018-03-19,NL,E-Bikes,Biketastic Netherlands,7,2012,EU,5643,1655.28,3,,1881
+OrNo.685730,2018-03-19,NL,E-Bikes,Biketastic Netherlands,7,2012,EU,5643,1655.28,3,,1881
+OrNo.202100,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,13.5,9.99,1,7,13.5
+OrNo.206800,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,81.5,30.155,2,21,40.75
+OrNo.510500,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,1001.25,246.975,3,231,333.75
+OrNo.512200,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,23.25,17.205,1,12,23.25
+OrNo.550400,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,283.25,209.605,1,196,283.25
+OrNo.615300,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,54.25,40.145,1,28,54.25
+OrNo.617200,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,354,261.96,1,245,354
+OrNo.621300,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,189.5,70.115,2,49,94.75
+OrNo.627500,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,263,194.62,1,182,263
+OrNo.629100,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,526,194.62,2,182,263
+OrNo.635400,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,40.75,30.155,1,21,40.75
+OrNo.637700,2018-03-20,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,465.25,344.285,1,322,465.25
+OrNo.685620,2018-03-22,NL,E-Bikes,Biketastic Netherlands,7,2012,EU,5643,1655.28,3,,1881
+OrNo.648780,2018-04-09,NL,E-Bikes,Biketastic Netherlands,7,2012,EU,1831.5,1611.72,1,,1831.5
+OrNo.208200,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,546,134.68,3,126,182
+OrNo.210200,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,6,4.44,1,2,6
+OrNo.212600,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,50.5,18.685,2,13,25.25
+OrNo.214000,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,161.75,119.695,1,112,161.75
+OrNo.216700,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,465.25,344.285,1,322,465.25
+OrNo.220500,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,627,231.99,2,217,313.5
+OrNo.227200,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,40.75,30.155,1,21,40.75
+OrNo.235400,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,546,202.02,2,189,273
+OrNo.237400,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,242.75,179.635,1,168,242.75
+OrNo.239100,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,1062,261.96,3,245,354
+OrNo.243000,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,81.5,30.155,2,21,40.75
+OrNo.365900,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,313.5,231.99,1,217,313.5
+OrNo.388100,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,1243.5,306.73,3,287,414.5
+OrNo.413500,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,293.25,217.005,1,203,293.25
+OrNo.415500,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,819,202.02,3,189,273
+OrNo.433700,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,42.5,15.725,2,11,21.25
+OrNo.437700,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,81.25,60.125,1,42,81.25
+OrNo.441400,2018-04-19,NL,Bike Rental,Biketastic Netherlands,7,2012,EU,232.5,172.05,1,161,232.5
+OrNo.648660,2018-05-18,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,1831.5,1611.72,1,,1831.5
+OrNo.105270,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,192.25,142.265,1,133,192.25
+OrNo.110270,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,293.25,217.005,1,203,293.25
+OrNo.111460,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,333.75,246.975,1,231,333.75
+OrNo.111850,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,465.25,344.285,1,322,465.25
+OrNo.112090,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,263,194.62,1,182,263
+OrNo.112470,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,54.25,40.145,1,28,54.25
+OrNo.113270,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,162.5,120.25,1,84,162.5
+OrNo.113680,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,242.75,179.635,1,168,242.75
+OrNo.113810,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,445,329.3,1,308,445
+OrNo.114090,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,394.5,291.93,1,273,394.5
+OrNo.114880,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,404.5,299.33,1,280,404.5
+OrNo.115000,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,232.5,172.05,1,161,232.5
+OrNo.116400,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,789,194.62,3,182,263
+OrNo.805600,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,122,90.28,1,63,122
+OrNo.807000,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,434.75,321.715,1,301,434.75
+OrNo.813700,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,515.75,381.655,1,357,515.75
+OrNo.815700,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,445,329.3,1,308,445
+OrNo.817500,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,149,110.26,1,77,149
+OrNo.820300,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,728.25,179.635,3,168,242.75
+OrNo.822100,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,414.5,306.73,1,287,414.5
+OrNo.830700,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,323.5,239.39,1,224,323.5
+OrNo.836400,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,909.75,224.405,3,210,303.25
+OrNo.846000,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,1456.5,359.27,3,336,485.5
+OrNo.848800,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,647,239.39,2,224,323.5
+OrNo.850700,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,809,299.33,2,280,404.5
+OrNo.854300,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,303.25,224.405,1,210,303.25
+OrNo.860100,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,1122.75,276.945,3,259,374.25
+OrNo.864200,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,354,261.96,1,245,354
+OrNo.866800,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,404.5,299.33,1,280,404.5
+OrNo.875900,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,303.25,224.405,1,210,303.25
+OrNo.879400,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,1486.5,366.67,3,343,495.5
+OrNo.881800,2018-05-20,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,323.5,119.695,2,112,161.75
+OrNo.592600,2018-05-21,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,1831.5,1611.72,1,,1831.5
+OrNo.648530,2018-05-21,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,1831.5,1611.72,1,,1831.5
+OrNo.650360,2018-06-09,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,3810,1676.4,2,,1905
+OrNo.688890,2018-06-09,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,3810,1676.4,2,,1905
+OrNo.760700,2018-06-09,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,3810,1676.4,2,,1905
+OrNo.802100,2018-06-09,NL,E-Bikes,Biketastic Netherlands,8,2012,EU,2106.25,1853.5,1,,2106.25
+OrNo.102250,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,950.5,351.685,2,329,475.25
+OrNo.102450,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,283,104.71,2,98,141.5
+OrNo.102620,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,687.5,254.375,2,238,343.75
+OrNo.103020,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,303.25,224.405,1,210,303.25
+OrNo.108410,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,252.75,187.035,1,175,252.75
+OrNo.108660,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,131.5,97.31,1,91,131.5
+OrNo.108840,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,161.75,119.695,1,112,161.75
+OrNo.109090,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,242.75,179.635,1,168,242.75
+OrNo.109240,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,303.25,224.405,1,210,303.25
+OrNo.980000,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,636.75,157.065,3,147,212.25
+OrNo.984100,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,273,202.02,1,189,273
+OrNo.986100,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,1031.5,381.655,2,357,515.75
+OrNo.988400,2018-06-19,NL,Bike Rental,Biketastic Netherlands,8,2012,EU,252.75,187.035,1,175,252.75
+OrNo.106310,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.652420,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.654180,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.690860,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.692300,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.893400,2018-07-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,2028,1784.64,1,,2028
+OrNo.689230,2018-07-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,2106.25,1853.5,1,,2106.25
+OrNo.759200,2018-07-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.770100,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,342.25,253.265,1,280,342.25
+OrNo.776600,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,4,2.96,1,2,4
+OrNo.782800,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,145.5,107.67,1,119,145.5
+OrNo.788000,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,179.75,133.015,1,147,179.75
+OrNo.792100,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,384.75,94.905,3,105,128.25
+OrNo.796100,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,804.5,297.665,2,329,402.25
+OrNo.798900,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,92.5,68.45,1,63,92.5
+OrNo.904300,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,693,170.94,3,189,231
+OrNo.918200,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,718.5,265.845,2,294,359.25
+OrNo.920400,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,633,234.21,2,259,316.5
+OrNo.928900,2018-07-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,821.25,202.575,3,224,273.75
+OrNo.650110,2018-07-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.137510,2018-08-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,5346,1568.16,3,,1782
+OrNo.655280,2018-08-10,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.652020,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,2028,1784.64,1,,2028
+OrNo.653750,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.654280,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.690420,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,2028,1784.64,1,,2028
+OrNo.690930,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.691990,2018-08-14,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.106730,2018-08-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.652320,2018-08-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.653530,2018-08-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.690720,2018-08-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.692210,2018-08-18,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.122570,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,49,36.26,1,49,49
+OrNo.123560,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,28,20.72,1,28,28
+OrNo.123740,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,154,113.96,1,154,154
+OrNo.124980,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,252,93.24,2,126,126
+OrNo.125370,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,280,207.2,1,280,280
+OrNo.125720,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,147,36.26,3,49,49
+OrNo.125990,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,112,82.88,1,112,112
+OrNo.127100,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,210,155.4,1,210,210
+OrNo.127360,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,364,134.68,2,182,182
+OrNo.143730,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,392,145.04,2,196,196
+OrNo.147390,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,105,25.9,3,35,35
+OrNo.147950,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,483,119.14,3,161,161
+OrNo.149090,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,77,56.98,1,77,77
+OrNo.149830,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,245,181.3,1,245,245
+OrNo.150020,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,357,264.18,1,357,357
+OrNo.150460,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,231,56.98,3,77,77
+OrNo.150610,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,112,82.88,1,112,112
+OrNo.152050,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,175,129.5,1,175,175
+OrNo.152290,2018-08-20,NL,Bike Rental,Biketastic Netherlands,9,2012,EU,350,129.5,2,175,175
+OrNo.106100,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.652210,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,3810,1676.4,2,,1905
+OrNo.653450,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.653920,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.691640,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,4817,2119.48,2,,2408.5
+OrNo.692180,2018-08-21,NL,E-Bikes,Biketastic Netherlands,9,2012,EU,1909.5,1680.36,1,,1909.5
+OrNo.138100,2018-09-14,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.654850,2018-09-14,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,5346,1568.16,3,,1782
+OrNo.693400,2018-09-14,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.138560,2018-09-17,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,11,8.14,1,11,11
+OrNo.141410,2018-09-17,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,728,269.36,2,364,364
+OrNo.137910,2018-09-18,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.654640,2018-09-18,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,5346,1568.16,3,,1782
+OrNo.692780,2018-09-18,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,5346,1568.16,3,,1782
+OrNo.693250,2018-09-18,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.137350,2018-09-21,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,5346,1568.16,3,,1782
+OrNo.137860,2018-09-21,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.693120,2018-09-21,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,7138.5,2093.96,3,,2379.5
+OrNo.144850,2018-10-08,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,1782,1568.16,1,,1782
+OrNo.655810,2018-10-08,NL,E-Bikes,Biketastic Netherlands,10,2012,EU,1782,1568.16,1,,1782
+OrNo.117310,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,490,181.3,2,245,245
+OrNo.118180,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,336,248.64,1,336,336
+OrNo.118950,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,308,113.96,2,154,154
+OrNo.119520,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,224,165.76,1,224,224
+OrNo.119760,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,217,160.58,1,217,217
+OrNo.119900,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,189,139.86,1,189,189
+OrNo.120130,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,42,31.08,1,42,42
+OrNo.120380,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,357,264.18,1,357,357
+OrNo.120530,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,126,31.08,3,42,42
+OrNo.120700,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,161,119.14,1,161,161
+OrNo.121390,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,49,36.26,1,49,49
+OrNo.121780,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,322,238.28,1,322,322
+OrNo.121980,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,119,88.06,1,119,119
+OrNo.127780,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,147,108.78,1,147,147
+OrNo.128860,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,147,108.78,1,147,147
+OrNo.129440,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,112,82.88,1,112,112
+OrNo.130150,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,840,207.2,3,280,280
+OrNo.131640,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,28,20.72,1,28,28
+OrNo.132050,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,140,103.6,1,140,140
+OrNo.132430,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,259,191.66,1,259,259
+OrNo.132800,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,252,93.24,2,126,126
+OrNo.133050,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,525,129.5,3,175,175
+OrNo.133630,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,546,202.02,2,273,273
+OrNo.134270,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,588,145.04,3,196,196
+OrNo.135450,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,266,196.84,1,266,266
+OrNo.135660,2018-10-18,NL,Bike Rental,Biketastic Netherlands,10,2012,EU,546,202.02,2,273,273
+OrNo.191150,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.192650,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.658280,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.659280,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.695310,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.695870,2018-11-07,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,2964.25,2608.54,1,,2964.25
+OrNo.144920,2018-11-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,1782,1568.16,1,,1782
+OrNo.144700,2018-11-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,1782,1568.16,1,,1782
+OrNo.161550,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,473,175.01,2,112,236.5
+OrNo.161750,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,561,138.38,3,56,187
+OrNo.162180,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,2128.5,525.03,3,336,709.5
+OrNo.162320,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,768.5,284.345,2,182,384.25
+OrNo.162760,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,413.75,306.175,1,196,413.75
+OrNo.163180,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,473,350.02,1,224,473
+OrNo.163970,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,635.5,470.27,1,301,635.5
+OrNo.164560,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,753.75,557.775,1,357,753.75
+OrNo.165900,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,650.5,240.685,2,154,325.25
+OrNo.166130,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,46.75,34.595,1,14,46.75
+OrNo.166310,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,116.75,86.395,1,35,116.75
+OrNo.166770,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,1108.5,273.43,3,175,369.5
+OrNo.167190,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,310.5,229.77,1,147,310.5
+OrNo.173490,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,591,218.67,2,140,295.5
+OrNo.174440,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,576.75,142.265,3,91,192.25
+OrNo.200730,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,40,29.6,1,12,40
+OrNo.201980,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,340,251.6,1,161,340
+OrNo.206580,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,443.5,328.19,1,210,443.5
+OrNo.206770,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,73.5,27.195,2,11,36.75
+OrNo.207770,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,916.5,339.105,2,217,458.25
+OrNo.208690,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,709.5,175.01,3,112,236.5
+OrNo.208890,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,251.25,185.925,1,119,251.25
+OrNo.209070,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,192.25,142.265,1,91,192.25
+OrNo.209270,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,650.5,240.685,2,154,325.25
+OrNo.210060,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,473,350.02,1,224,473
+OrNo.210290,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,547,404.78,1,259,547
+OrNo.211050,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,1064.25,262.515,3,168,354.75
+OrNo.211230,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,458.25,339.105,1,217,458.25
+OrNo.211490,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,694.75,514.115,1,329,694.75
+OrNo.211690,2018-11-17,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,467.5,172.975,2,70,233.75
+OrNo.655610,2018-11-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,1782,1568.16,1,,1782
+OrNo.130174,2018-12-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,2964.25,2608.54,1,,2964.25
+OrNo.191290,2018-12-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.192710,2018-12-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.694930,2018-12-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.695400,2018-12-12,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.191060,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.192500,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.658630,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,2964.25,2608.54,1,,2964.25
+OrNo.694700,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.695270,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.696230,2018-12-16,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.155250,2018-12-18,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,266,196.84,1,126,266
+OrNo.155420,2018-12-18,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,140.25,103.785,1,42,140.25
+OrNo.194790,2018-12-18,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,384.25,284.345,1,182,384.25
+OrNo.199130,2018-12-18,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,1419,525.03,2,336,709.5
+OrNo.205330,2018-12-18,NL,Bike Rental,Biketastic Netherlands,11,2012,EU,295.5,218.67,1,140,295.5
+OrNo.190910,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.191480,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.658560,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,2964.25,2608.54,1,,2964.25
+OrNo.659050,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,7440.75,2182.62,3,,2480.25
+OrNo.694610,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,4148.5,1825.34,2,,2074.25
+OrNo.695190,2018-12-19,NL,E-Bikes,Biketastic Netherlands,11,2012,EU,5930.25,1739.54,3,,1976.75
+OrNo.156340,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.157160,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,576.5,340.135,1,273,576.5
+OrNo.157940,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,140.25,82.7475,1,42,140.25
+OrNo.159960,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,93.5,27.5825,2,14,46.75
+OrNo.182790,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,414,122.13,2,98,207
+OrNo.183180,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,6,3.54,1,1,6
+OrNo.183490,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,2261.25,444.7125,3,357,753.75
+OrNo.183880,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,236.5,139.535,1,112,236.5
+OrNo.184050,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,236.5,139.535,1,112,236.5
+OrNo.184280,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,458.25,270.3675,1,217,458.25
+OrNo.184490,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,665,392.35,1,315,665
+OrNo.185840,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,33.5,19.765,1,10,33.5
+OrNo.186640,2019-01-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,163.5,96.465,1,49,163.5
+OrNo.666570,2019-02-07,NL,E-Bikes,Biketastic Netherlands,12,2012,EU,2258.5,1784.215,1,,2258.5
+OrNo.224830,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.225040,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.225410,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,606,357.54,1,287,606
+OrNo.225660,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,532,313.88,1,252,532
+OrNo.225830,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,207,122.13,1,98,207
+OrNo.226050,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,340,200.6,1,161,340
+OrNo.226870,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,280.5,165.495,1,84,280.5
+OrNo.227010,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,163.5,96.465,1,49,163.5
+OrNo.228970,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,420.5,124.0475,2,63,210.25
+OrNo.229130,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,739,218.005,2,175,369.5
+OrNo.229360,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1064,313.88,2,252,532
+OrNo.242490,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,93.5,55.165,1,28,93.5
+OrNo.242950,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,665,392.35,1,315,665
+OrNo.243120,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,140.25,82.7475,1,42,140.25
+OrNo.243700,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,369.5,218.005,1,175,369.5
+OrNo.243950,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,325.25,191.8975,1,154,325.25
+OrNo.244150,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,325.25,191.8975,1,154,325.25
+OrNo.244360,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,458.25,270.3675,1,217,458.25
+OrNo.244540,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1182.5,348.8375,2,280,591.25
+OrNo.244790,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1153,340.135,2,273,576.5
+OrNo.245540,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,384.25,226.7075,1,182,384.25
+OrNo.246320,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,487.75,287.7725,1,231,487.75
+OrNo.246750,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,473,279.07,1,224,473
+OrNo.246980,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,635.5,374.945,1,301,635.5
+OrNo.247590,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,384.25,226.7075,1,182,384.25
+OrNo.247710,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,36.75,21.6825,1,11,36.75
+OrNo.247950,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,502.5,148.2375,2,119,251.25
+OrNo.248180,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1330,392.35,2,315,665
+OrNo.248330,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,473,279.07,1,224,473
+OrNo.249390,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.249520,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,340,200.6,1,161,340
+OrNo.249730,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,532,313.88,1,252,532
+OrNo.250350,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,739,436.01,1,350,739
+OrNo.250910,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,606,357.54,1,287,606
+OrNo.254499,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,325.25,191.8975,1,154,325.25
+OrNo.254620,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.254820,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,665,392.35,1,315,665
+OrNo.255090,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1241.25,244.1125,3,196,413.75
+OrNo.255460,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,24.5,7.2275,2,2,12.25
+OrNo.255680,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1330,392.35,2,315,665
+OrNo.264060,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,257,151.63,1,77,257
+OrNo.264420,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,327,96.465,2,49,163.5
+OrNo.264650,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,473,279.07,1,224,473
+OrNo.265070,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,163.5,96.465,1,49,163.5
+OrNo.265200,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,266,156.94,1,126,266
+OrNo.265400,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,236.5,139.535,1,112,236.5
+OrNo.265860,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,724.25,427.3075,1,343,724.25
+OrNo.266020,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,310.5,183.195,1,147,310.5
+OrNo.267430,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,561.75,331.4325,1,266,561.75
+OrNo.274130,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,340,200.6,1,161,340
+OrNo.274330,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,606,357.54,1,287,606
+OrNo.276260,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,473,279.07,1,224,473
+OrNo.295260,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,739,436.01,1,350,739
+OrNo.318000,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,207,122.13,1,98,207
+OrNo.318420,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,233.75,137.9125,1,70,233.75
+OrNo.319040,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,236.5,139.535,1,112,236.5
+OrNo.319440,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.319690,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,724.25,427.3075,1,343,724.25
+OrNo.320240,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,207,122.13,1,98,207
+OrNo.320440,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,295.5,174.345,1,140,295.5
+OrNo.321040,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,93.5,55.165,1,28,93.5
+OrNo.321480,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.321610,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,487.75,287.7725,1,231,487.75
+OrNo.322210,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,207,122.13,1,98,207
+OrNo.322480,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,266,156.94,1,126,266
+OrNo.323850,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,93.5,55.165,1,28,93.5
+OrNo.324090,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,266,156.94,1,126,266
+OrNo.324690,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.324810,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,724.25,427.3075,1,343,724.25
+OrNo.325200,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,233.5,68.8825,2,35,116.75
+OrNo.325470,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,975.5,287.7725,2,231,487.75
+OrNo.336360,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,975.75,191.8975,3,154,325.25
+OrNo.337110,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,561,165.495,2,84,280.5
+OrNo.337710,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,340,200.6,1,161,340
+OrNo.339510,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,233.75,137.9125,1,70,233.75
+OrNo.339760,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1330,392.35,2,315,665
+OrNo.339970,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1419,418.605,2,336,709.5
+OrNo.340100,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,280.75,165.6425,1,133,280.75
+OrNo.341564,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.341810,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,233.75,137.9125,1,70,233.75
+OrNo.342820,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,458.25,270.3675,1,217,458.25
+OrNo.343230,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,630.75,124.0475,3,63,210.25
+OrNo.343450,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,694.75,409.9025,1,329,694.75
+OrNo.344690,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,163.5,96.465,1,49,163.5
+OrNo.345280,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1995,392.35,3,315,665
+OrNo.345440,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,650.5,191.8975,2,154,325.25
+OrNo.346030,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,280.5,165.495,1,84,280.5
+OrNo.346250,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,236.5,139.535,1,112,236.5
+OrNo.346470,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,517.25,305.1775,1,245,517.25
+OrNo.346680,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,428.75,252.9625,1,203,428.75
+OrNo.347430,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.347940,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,443.5,261.665,1,210,443.5
+OrNo.348590,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,369.5,218.005,1,175,369.5
+OrNo.349370,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,680,401.2,1,322,680
+OrNo.350100,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,694.75,409.9025,1,329,694.75
+OrNo.350320,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.350770,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,1950.75,383.6475,3,308,650.25
+OrNo.352180,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,606,357.54,1,287,606
+OrNo.355040,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,163.5,96.465,1,49,163.5
+OrNo.355490,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,739,436.01,1,350,739
+OrNo.355690,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,561,165.495,2,84,280.5
+OrNo.355880,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,753.75,444.7125,1,357,753.75
+OrNo.356200,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.356650,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,857.5,252.9625,2,203,428.75
+OrNo.357960,2019-02-17,NL,Bike Rental,Biketastic Netherlands,12,2012,EU,384.25,226.7075,1,182,384.25
+OrNo.226490,2019-03-09,NL,Cargo Bikes,Biketastic Netherlands,13,2012,EU,3452.5,2934.625,1,,3452.5
+OrNo.255850,2019-03-09,NL,Cargo Bikes,Biketastic Netherlands,13,2012,EU,3241,2754.85,1,,3241
+OrNo.337360,2019-03-09,NL,Cargo Bikes,Biketastic Netherlands,13,2012,EU,4340,2945.675,1,,6380
+OrNo.662820,2019-03-09,NL,Cargo Bikes,Biketastic Netherlands,13,2012,EU,4001.5,3401.275,1,,4001.5
+OrNo.666890,2019-03-09,NL,Cargo Bikes,Biketastic Netherlands,13,2012,EU,3465.5,2945.675,1,,3465.5
+OrNo.219290,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,2261.25,444.7125,3,357,753.75
+OrNo.231420,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,70,41.3,1,21,70
+OrNo.231840,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,6,3.54,1,1,6
+OrNo.232020,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1596,313.88,3,252,532
+OrNo.232230,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1419,418.605,2,336,709.5
+OrNo.232400,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.233650,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,532,313.88,1,252,532
+OrNo.234090,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,680,401.2,1,322,680
+OrNo.234420,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,724.25,427.3075,1,343,724.25
+OrNo.279020,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,561,165.495,2,84,280.5
+OrNo.279860,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,916.5,270.3675,2,217,458.25
+OrNo.280230,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,680,401.2,1,322,680
+OrNo.280430,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,665,392.35,1,315,665
+OrNo.280650,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,443.5,130.8325,2,105,221.75
+OrNo.281210,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,621,183.195,2,147,310.5
+OrNo.306290,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,251.25,148.2375,1,119,251.25
+OrNo.306430,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,753.75,444.7125,1,357,753.75
+OrNo.307040,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,473,279.07,1,224,473
+OrNo.308650,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,354.75,209.3025,1,168,354.75
+OrNo.308880,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,251.25,148.2375,1,119,251.25
+OrNo.309220,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,399,235.41,1,189,399
+OrNo.309400,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1507.5,444.7125,2,357,753.75
+OrNo.310010,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,547,322.73,1,259,547
+OrNo.310660,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,163.5,96.465,1,49,163.5
+OrNo.310820,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,280.5,165.495,1,84,280.5
+OrNo.311470,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1448.5,427.3075,2,343,724.25
+OrNo.311650,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,701.25,137.9125,3,70,233.75
+OrNo.312410,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1374.75,270.3675,3,217,458.25
+OrNo.313530,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,340,200.6,1,161,340
+OrNo.313710,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,842.25,165.6425,3,133,280.75
+OrNo.314170,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.314370,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,502.5,296.475,1,238,502.5
+OrNo.314560,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,73.5,14.455,3,4,24.5
+OrNo.331070,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,694.75,409.9025,1,329,694.75
+OrNo.331200,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,473,279.07,1,224,473
+OrNo.331460,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,768.5,226.7075,2,182,384.25
+OrNo.332220,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,280.5,165.495,1,84,280.5
+OrNo.332430,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,473,279.07,1,224,473
+OrNo.332670,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,768.5,453.415,1,364,768.5
+OrNo.333270,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.334870,2019-03-20,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.335870,2019-03-21,NL,E-Bikes,Biketastic Netherlands,13,2012,EU,2258.5,1784.215,1,,2258.5
+OrNo.666370,2019-03-21,NL,E-Bikes,Biketastic Netherlands,13,2012,EU,2258.5,1784.215,1,,2258.5
+OrNo.234610,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.235460,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1419,279.07,3,224,473
+OrNo.235620,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,576.5,340.135,1,273,576.5
+OrNo.236480,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,187,110.33,1,56,187
+OrNo.236680,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,384.25,226.7075,1,182,384.25
+OrNo.236860,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,340,200.6,1,161,340
+OrNo.237090,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,140.25,82.7475,1,42,140.25
+OrNo.237250,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,467.5,137.9125,2,70,233.75
+OrNo.237490,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.237670,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,547,322.73,1,259,547
+OrNo.238080,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.238250,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.238820,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,547,322.73,1,259,547
+OrNo.260430,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,771,151.63,3,77,257
+OrNo.286300,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,369.5,218.005,1,175,369.5
+OrNo.286540,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,798,156.94,3,126,266
+OrNo.286790,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,739,218.005,2,175,369.5
+OrNo.286920,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1064.25,209.3025,3,168,354.75
+OrNo.287360,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,1094,322.73,2,259,547
+OrNo.287700,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,443.5,261.665,1,210,443.5
+OrNo.288770,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,325.25,191.8975,1,154,325.25
+OrNo.288970,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,414,122.13,2,98,207
+OrNo.289730,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,753.75,444.7125,1,357,753.75
+OrNo.289960,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,739,436.01,1,350,739
+OrNo.290140,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,487.75,287.7725,1,231,487.75
+OrNo.290300,2019-04-19,NL,Bike Rental,Biketastic Netherlands,13,2012,EU,458.25,270.3675,1,217,458.25
+OrNo.328120,2019-05-14,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,4371,1726.545,2,,2185.5
+OrNo.699970,2019-05-14,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,4371,1726.545,2,,2185.5
+OrNo.327990,2019-05-18,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,4371,1726.545,2,,2185.5
+OrNo.699730,2019-05-18,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,4371,1726.545,2,,2185.5
+OrNo.126641,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,857.5,252.9625,2,203,428.75
+OrNo.369630,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.369870,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,561,165.495,2,84,280.5
+OrNo.370010,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,768.5,453.415,1,364,768.5
+OrNo.370670,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1123.5,331.4325,2,266,561.75
+OrNo.370830,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,310.5,183.195,1,147,310.5
+OrNo.371010,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,842.25,165.6425,3,133,280.75
+OrNo.371250,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,650.25,383.6475,1,308,650.25
+OrNo.372060,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,236.5,139.535,1,112,236.5
+OrNo.385730,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,18.25,10.7675,1,3,18.25
+OrNo.385980,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,295.5,174.345,1,140,295.5
+OrNo.386160,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,221.75,130.8325,1,105,221.75
+OrNo.387140,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,140,41.3,2,21,70
+OrNo.388190,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,576.5,340.135,1,273,576.5
+OrNo.388540,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,374,110.33,2,56,187
+OrNo.388920,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,26.75,15.7825,1,8,26.75
+OrNo.389560,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,30.5,17.995,1,5,30.5
+OrNo.389930,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,221.75,130.8325,1,105,221.75
+OrNo.390380,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,266,156.94,1,126,266
+OrNo.390930,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1241.25,244.1125,3,196,413.75
+OrNo.391170,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,280.75,165.6425,1,133,280.75
+OrNo.391550,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,280.75,165.6425,1,133,280.75
+OrNo.391710,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.391920,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.392340,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,70,41.3,1,21,70
+OrNo.392700,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1197,235.41,3,189,399
+OrNo.392980,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,266,156.94,1,126,266
+OrNo.393330,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,210.25,124.0475,1,63,210.25
+OrNo.396310,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,561,165.495,2,84,280.5
+OrNo.396580,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,354.75,209.3025,1,168,354.75
+OrNo.403010,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,753.75,148.2375,3,119,251.25
+OrNo.403220,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,280.5,55.165,3,28,93.5
+OrNo.404020,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,680,401.2,1,322,680
+OrNo.407200,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,650.25,383.6475,1,308,650.25
+OrNo.408230,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1463.25,287.7725,3,231,487.75
+OrNo.420420,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,2217,436.01,3,350,739
+OrNo.420620,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,606,357.54,1,287,606
+OrNo.422000,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,473,279.07,1,224,473
+OrNo.439560,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,251.25,148.2375,1,119,251.25
+OrNo.441100,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,650.25,383.6475,1,308,650.25
+OrNo.441340,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,532,313.88,1,252,532
+OrNo.441750,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,310.5,183.195,1,147,310.5
+OrNo.441940,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,458.25,270.3675,1,217,458.25
+OrNo.442500,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,140.25,82.7475,1,42,140.25
+OrNo.444370,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1773.75,348.8375,3,280,591.25
+OrNo.444590,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,606,357.54,1,287,606
+OrNo.445380,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,187,110.33,1,56,187
+OrNo.445730,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,931.5,183.195,3,147,310.5
+OrNo.445930,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,473,279.07,1,224,473
+OrNo.446330,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,233.75,137.9125,1,70,233.75
+OrNo.453980,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,325.25,191.8975,1,154,325.25
+OrNo.454360,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1995,392.35,3,315,665
+OrNo.454580,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,384.5,113.4275,2,91,192.25
+OrNo.454730,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,420.75,82.7475,3,42,140.25
+OrNo.454920,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,374,110.33,2,56,187
+OrNo.455319,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1005,296.475,2,238,502.5
+OrNo.455770,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,841.5,165.495,3,84,280.5
+OrNo.456340,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,428.75,252.9625,1,203,428.75
+OrNo.456550,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,701.25,137.9125,3,70,233.75
+OrNo.457780,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,621,122.13,3,98,207
+OrNo.458180,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1551.75,305.1775,3,245,517.25
+OrNo.458970,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,236.5,139.535,1,112,236.5
+OrNo.459920,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,473,279.07,1,224,473
+OrNo.460360,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,413.75,244.1125,1,196,413.75
+OrNo.460570,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,694.75,409.9025,1,329,694.75
+OrNo.460790,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,116.75,68.8825,1,35,116.75
+OrNo.461930,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,192.25,113.4275,1,91,192.25
+OrNo.462160,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,221.75,130.8325,1,105,221.75
+OrNo.462970,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,257,151.63,1,77,257
+OrNo.463130,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,532,313.88,1,252,532
+OrNo.463550,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,420.5,124.0475,2,63,210.25
+OrNo.463910,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,46.75,27.5825,1,14,46.75
+OrNo.464660,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1360,401.2,2,322,680
+OrNo.465060,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,233.5,68.8825,2,35,116.75
+OrNo.465840,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,257,151.63,1,77,257
+OrNo.466640,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,2261.25,444.7125,3,357,753.75
+OrNo.467270,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,665.25,130.8325,3,105,221.75
+OrNo.467430,2019-05-20,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,635.5,374.945,1,301,635.5
+OrNo.327830,2019-05-21,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,4371,1726.545,2,,2185.5
+OrNo.383430,2019-06-09,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.668700,2019-06-09,NL,Cargo Bikes,Biketastic Netherlands,14,2012,EU,7098.5,3016.8625,2,,3549.25
+OrNo.700830,2019-06-09,NL,E-Bikes,Biketastic Netherlands,14,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.376260,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,561,165.495,2,84,280.5
+OrNo.376610,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,266,156.94,1,126,266
+OrNo.377080,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,384.25,226.7075,1,182,384.25
+OrNo.377400,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,221.75,130.8325,1,105,221.75
+OrNo.377610,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,251.25,148.2375,1,119,251.25
+OrNo.378490,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,768.5,453.415,1,364,768.5
+OrNo.410390,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1551.75,305.1775,3,245,517.25
+OrNo.410580,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,36.75,21.6825,1,11,36.75
+OrNo.424380,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,665,392.35,1,315,665
+OrNo.429750,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,680,401.2,1,322,680
+OrNo.430320,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,547,322.73,1,259,547
+OrNo.430760,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,946,279.07,2,224,473
+OrNo.431190,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,163.5,96.465,1,49,163.5
+OrNo.431310,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,635.5,374.945,1,301,635.5
+OrNo.431530,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,753.75,148.2375,3,119,251.25
+OrNo.431900,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,532,313.88,1,252,532
+OrNo.432170,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,369.5,218.005,1,175,369.5
+OrNo.432700,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,620.75,366.2425,1,294,620.75
+OrNo.433380,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1241.25,244.1125,3,196,413.75
+OrNo.434160,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,724.25,427.3075,1,343,724.25
+OrNo.434370,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,576.5,340.135,1,273,576.5
+OrNo.436330,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,36.5,10.7675,2,3,18.25
+OrNo.451120,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,1596,313.88,3,252,532
+OrNo.451541,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,280.75,165.6425,1,133,280.75
+OrNo.452170,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,280.75,165.6425,1,133,280.75
+OrNo.452574,2019-06-19,NL,Bike Rental,Biketastic Netherlands,14,2012,EU,606,357.54,1,287,606
+OrNo.450430,2019-07-10,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.704390,2019-07-10,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.364670,2019-07-14,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.667560,2019-07-14,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.700950,2019-07-14,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.364450,2019-07-18,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.700720,2019-07-18,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.701760,2019-07-18,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.379380,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,608.25,358.8675,1,322,608.25
+OrNo.379710,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,1190.25,234.0825,3,210,396.75
+OrNo.380110,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,23,13.57,1,8,23
+OrNo.380380,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,529,312.11,1,280,529
+OrNo.380560,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,1111,327.745,2,294,555.5
+OrNo.380750,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,30.5,17.995,1,6,30.5
+OrNo.381790,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,482.25,94.8425,3,56,160.75
+OrNo.382140,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,357,210.63,1,189,357
+OrNo.382320,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,357,210.63,1,189,357
+OrNo.400330,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,899.5,265.3525,2,238,449.75
+OrNo.412950,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,224.75,132.6025,1,119,224.75
+OrNo.413140,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,502.5,148.2375,2,133,251.25
+OrNo.413510,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,343.75,202.8125,1,182,343.75
+OrNo.414490,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,873,257.535,2,231,436.5
+OrNo.415080,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,30.5,17.995,1,6,30.5
+OrNo.415290,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,60.25,35.5475,1,21,60.25
+OrNo.415420,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,201,118.59,1,70,201
+OrNo.415600,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,80.5,47.495,1,28,80.5
+OrNo.415820,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,396.75,234.0825,1,210,396.75
+OrNo.416030,2019-07-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,1150.5,226.265,3,203,383.5
+OrNo.383250,2019-07-21,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.700680,2019-07-21,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,2520.75,1991.3925,1,,2520.75
+OrNo.672540,2019-08-14,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.704460,2019-08-14,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.672380,2019-08-18,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.704260,2019-08-18,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.477540,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,376.5,222.135,1,308,376.5
+OrNo.478580,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,564.75,111.0675,3,154,188.25
+OrNo.489160,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,308,181.72,1,252,308
+OrNo.489590,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,61.75,36.4325,1,42,61.75
+OrNo.490580,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,333.75,196.9125,1,273,333.75
+OrNo.491180,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,30.75,18.1425,1,21,30.75
+OrNo.491510,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,350.75,206.9425,1,287,350.75
+OrNo.493170,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,188.25,111.0675,1,154,188.25
+OrNo.493720,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,61.75,36.4325,1,42,61.75
+OrNo.495100,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,111.25,65.6375,1,91,111.25
+OrNo.507520,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,72,42.48,1,49,72
+OrNo.519950,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,316.5,186.735,1,259,316.5
+OrNo.533980,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,333.75,65.6375,3,91,111.25
+OrNo.534360,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,205.25,121.0975,1,168,205.25
+OrNo.534760,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,17.5,10.325,1,12,17.5
+OrNo.534950,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,24.5,7.2275,2,6,12.25
+OrNo.535170,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,41,24.19,1,28,41
+OrNo.536770,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,718.5,211.9575,2,294,359.25
+OrNo.537140,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,410.75,242.3425,1,336,410.75
+OrNo.537510,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,248.25,146.4675,1,203,248.25
+OrNo.538500,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,92.5,54.575,1,63,92.5
+OrNo.539130,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,890,262.55,2,364,445
+OrNo.546360,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,427.75,252.3725,1,350,427.75
+OrNo.546980,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,248.25,146.4675,1,203,248.25
+OrNo.547770,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,137,80.83,1,112,137
+OrNo.549080,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,410.75,242.3425,1,336,410.75
+OrNo.549260,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,359.25,211.9575,1,294,359.25
+OrNo.549470,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,385,227.15,1,315,385
+OrNo.550210,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,123.25,72.7175,1,84,123.25
+OrNo.551030,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,137,80.83,1,112,137
+OrNo.551260,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,265.25,156.4975,1,217,265.25
+OrNo.551610,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,61.5,12.095,3,14,20.5
+OrNo.552190,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,718.5,211.9575,2,294,359.25
+OrNo.553620,2019-08-20,NL,Bike Rental,Biketastic Netherlands,15,2012,EU,196.75,116.0825,1,161,196.75
+OrNo.450230,2019-08-21,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.704100,2019-08-21,NL,E-Bikes,Biketastic Netherlands,15,2012,EU,5647.5,1487.175,3,,1882.5
+OrNo.474940,2019-09-08,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,2156,1703.24,1,,2156
+OrNo.705358,2019-09-08,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,2156,1703.24,1,,2156
+OrNo.520850,2019-09-14,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.675800,2019-09-14,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.476430,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,205.25,121.0975,1,168,205.25
+OrNo.476660,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,384.75,75.6675,3,105,128.25
+OrNo.480650,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,222.5,65.6375,2,91,111.25
+OrNo.481220,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,633,186.735,2,259,316.5
+OrNo.481650,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,1026.75,201.9275,3,280,342.25
+OrNo.525750,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,30.75,18.1425,1,21,30.75
+OrNo.525920,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,231,136.29,1,189,231
+OrNo.526100,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,256.75,151.4825,1,210,256.75
+OrNo.527590,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,325.25,191.8975,1,266,325.25
+OrNo.527720,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,196.75,116.0825,1,161,196.75
+OrNo.528140,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,145.5,85.845,1,119,145.5
+OrNo.528330,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,6,1.18,3,1,2
+OrNo.528950,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,667.5,196.9125,2,273,333.75
+OrNo.529180,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,41,24.19,1,28,41
+OrNo.544170,2019-09-18,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,701.5,206.9425,2,287,350.75
+OrNo.520630,2019-09-18,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.675600,2019-09-18,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.705790,2019-09-18,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.675580,2019-09-21,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.707880,2019-10-09,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.473710,2019-10-13,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.475060,2019-10-13,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,2156,1703.24,1,,2156
+OrNo.704920,2019-10-13,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.705460,2019-10-13,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,2156,1703.24,1,,2156
+OrNo.473530,2019-10-17,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.673300,2019-10-17,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.704790,2019-10-17,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.705230,2019-10-17,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,2156,1703.24,1,,2156
+OrNo.483480,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,214,126.26,1,175,214
+OrNo.483810,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,179.75,106.0525,1,147,179.75
+OrNo.484020,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,214,126.26,1,175,214
+OrNo.485280,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,436.25,257.3875,1,357,436.25
+OrNo.485650,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,6,3.54,1,3,6
+OrNo.486290,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,615.75,121.0975,3,168,205.25
+OrNo.501130,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,248.25,146.4675,1,203,248.25
+OrNo.513030,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,1026.75,201.9275,3,280,342.25
+OrNo.513840,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,642,126.26,3,175,214
+OrNo.514200,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,718.5,141.305,3,196,239.5
+OrNo.514630,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,154,90.86,1,126,154
+OrNo.514870,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,214,126.26,1,175,214
+OrNo.515860,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,316.5,186.735,1,259,316.5
+OrNo.516080,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,462,90.86,3,126,154
+OrNo.516620,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,599,176.705,2,245,299.5
+OrNo.516870,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,291,171.69,1,238,291
+OrNo.517030,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,231,136.29,1,189,231
+OrNo.517240,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,123.25,72.7175,1,84,123.25
+OrNo.517420,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,256.75,151.4825,1,210,256.75
+OrNo.517840,2019-10-19,NL,Bike Rental,Biketastic Netherlands,16,2012,EU,72,42.48,1,49,72
+OrNo.673200,2019-10-20,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.704680,2019-10-20,NL,E-Bikes,Biketastic Netherlands,16,2012,EU,5884.5,1549.585,3,,1961.5
+OrNo.541430,2019-11-13,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.541260,2019-11-17,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,4933.5,1948.7325,2,,2466.75
+OrNo.543510,2019-11-17,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,2141.5,1691.785,1,,2141.5
+OrNo.708210,2019-11-17,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,2141.5,1691.785,1,,2141.5
+OrNo.562500,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,804.75,158.2675,3,161,268.25
+OrNo.562990,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,513.5,302.965,1,308,513.5
+OrNo.563150,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,525,309.75,1,315,525
+OrNo.563590,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,198.25,116.9675,1,119,198.25
+OrNo.564950,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,373.5,220.365,1,224,373.5
+OrNo.566470,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,373.5,220.365,1,224,373.5
+OrNo.575660,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,1365,268.45,3,273,455
+OrNo.575840,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,303.5,179.065,1,182,303.5
+OrNo.576460,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,84,49.56,1,35,84
+OrNo.577150,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,770,227.15,2,231,385
+OrNo.577370,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,431.75,254.7325,1,259,431.75
+OrNo.578160,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,268.25,158.2675,1,161,268.25
+OrNo.578300,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,256.75,151.4825,1,154,256.75
+OrNo.578780,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,548.5,323.615,1,329,548.5
+OrNo.579150,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,455,268.45,1,273,455
+OrNo.580100,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,571.75,337.3325,1,343,571.75
+OrNo.580930,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,117.75,69.4725,1,49,117.75
+OrNo.581300,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,571.75,337.3325,1,343,571.75
+OrNo.581720,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,185,109.15,1,77,185
+OrNo.586190,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,336.5,99.2675,2,70,168.25
+OrNo.589260,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,315,185.85,1,189,315
+OrNo.589600,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,233.25,137.6175,1,140,233.25
+OrNo.593170,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,583.5,344.265,1,350,583.5
+OrNo.593710,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,326.75,192.7825,1,196,326.75
+OrNo.594920,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,151.5,89.385,1,63,151.5
+OrNo.616610,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,455,268.45,1,273,455
+OrNo.617040,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,303.5,179.065,1,182,303.5
+OrNo.617410,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,373.5,220.365,1,224,373.5
+OrNo.617840,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,338.5,199.715,1,203,338.5
+OrNo.618020,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,233.25,137.6175,1,140,233.25
+OrNo.618230,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,67.25,39.6775,1,28,67.25
+OrNo.619230,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,420,247.8,1,252,420
+OrNo.619480,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,525,309.75,1,315,525
+OrNo.619690,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,151.5,89.385,1,63,151.5
+OrNo.620820,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,303.5,89.5325,2,91,151.75
+OrNo.621400,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,151.5,89.385,1,63,151.5
+OrNo.622630,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,84,49.56,1,35,84
+OrNo.627180,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,50.5,29.795,1,21,50.5
+OrNo.630170,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,793.5,234.0825,2,238,396.75
+OrNo.630570,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,490,289.1,1,294,490
+OrNo.630930,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,385,227.15,1,231,385
+OrNo.631160,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,793.5,234.0825,2,238,396.75
+OrNo.631790,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,420,123.9,2,126,210
+OrNo.632730,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,256.75,151.4825,1,154,256.75
+OrNo.633540,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,490,289.1,1,294,490
+OrNo.633790,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,980,289.1,2,294,490
+OrNo.633960,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,408.5,241.015,1,245,408.5
+OrNo.634970,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,326.75,192.7825,1,196,326.75
+OrNo.635110,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,151.5,89.385,1,63,151.5
+OrNo.636910,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,431.75,254.7325,1,259,431.75
+OrNo.637150,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,525,103.25,3,105,175
+OrNo.637540,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,957,282.315,2,287,478.5
+OrNo.639600,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,385,227.15,1,231,385
+OrNo.639830,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,455,268.45,1,273,455
+OrNo.640200,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,134.5,79.355,1,56,134.5
+OrNo.640840,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,221.75,130.8325,1,133,221.75
+OrNo.641100,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,466.75,275.3825,1,280,466.75
+OrNo.641340,2019-11-18,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,933.5,275.3825,2,280,466.75
+OrNo.564140,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,3328.75,2829.4375,1,,3328.75
+OrNo.564500,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,3468,2947.8,1,,3468
+OrNo.567480,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,3421,2907.85,1,,3421
+OrNo.567840,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,8024,3410.2,2,,4012
+OrNo.627760,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,3421,2907.85,1,,3421
+OrNo.681010,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,8024,3410.2,2,,4012
+OrNo.681200,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,3421,2907.85,1,,3421
+OrNo.681400,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,7150,3038.75,2,,3575
+OrNo.684270,2019-12-08,NL,Cargo Bikes,Biketastic Netherlands,17,2012,EU,6842,2907.85,2,,3421
+OrNo.569950,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,630,185.85,2,189,315
+OrNo.570520,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,50.5,29.795,1,21,50.5
+OrNo.570730,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,536.75,316.6825,1,322,536.75
+OrNo.570990,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,1680,330.4,3,336,560
+OrNo.571700,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,221.75,130.8325,1,133,221.75
+OrNo.572150,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,793.5,234.0825,2,238,396.75
+OrNo.572320,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,101,59.59,1,42,101
+OrNo.572550,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,350,206.5,1,210,350
+OrNo.595280,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,980.25,192.7825,3,196,326.75
+OrNo.607580,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,455,268.45,1,273,455
+OrNo.607700,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,117.75,69.4725,1,49,117.75
+OrNo.608390,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,291.75,172.1325,1,175,291.75
+OrNo.608560,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,175,103.25,1,105,175
+OrNo.609170,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,408.5,241.015,1,245,408.5
+OrNo.609560,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,548.5,323.615,1,329,548.5
+OrNo.610340,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,101,59.59,1,42,101
+OrNo.610790,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,26.5,15.635,1,11,26.5
+OrNo.611370,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,256.75,151.4825,1,154,256.75
+OrNo.611780,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,490,289.1,1,294,490
+OrNo.612170,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,653.5,192.7825,2,196,326.75
+OrNo.612520,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,1097,323.615,2,329,548.5
+OrNo.612740,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,443.5,261.665,1,266,443.5
+OrNo.612930,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,201.75,39.6775,3,28,67.25
+OrNo.613170,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,168.25,99.2675,1,70,168.25
+OrNo.624520,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,235.5,69.4725,2,49,117.75
+OrNo.625500,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,24.5,14.455,1,6,24.5
+OrNo.625780,2019-12-19,NL,Bike Rental,Biketastic Netherlands,17,2012,EU,431.75,254.7325,1,259,431.75
+OrNo.129955,2019-12-20,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,2420,1911.8,1,,2420
+OrNo.683475,2019-12-20,NL,E-Bikes,Biketastic Netherlands,17,2012,EU,2420,1911.8,1,,2420

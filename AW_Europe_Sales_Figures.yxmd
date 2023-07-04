@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AW_Sales_Europe.xlsx
+Query=`Sales figures$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesOrderNumber" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="ProductKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="OrderQuantity" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="UnitPrice" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="SalesAmount" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="TotalProductCost" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="OrderDate" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Date" />
+            <Field name="ShipDate" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Date" />
+            <Field name="City" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="StateProvinceCode" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="CountryRegionCode" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="PostalCode" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="DiscountAmount" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="Sales Type" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="ResellerKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="CustomerKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="ProductName" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="ProductSubcategory" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="ProductCategory" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="Profit" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="ResellerName" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="NumberEmployees" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="OrderFrequency" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="AnnualSales" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="AnnualRevenue" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="YearOpened" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="Double" />
+            <Field name="Region" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+            <Field name="StoreAge" size="255" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="210" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\EAGUIL~1\AppData\Local\Temp\Engine_15588_233f35ea0fa24b90b7318451f04dde5e_\Engine_22196_939c654146b14d30841855c8f4050b2c_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings>
+        <Position x="210" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"SalesOrderNumber","ProductKey","OrderQuantity","UnitPrice","SalesAmount","TotalProductCost","OrderDate","ShipDate","City","StateProvinceCode","CountryRegionCode","PostalCode","DiscountAmount","Sales Type","ResellerKey","CustomerKey","ProductName","ProductSubcategory","ProductCategory","Profit","ResellerName","NumberEmployees","OrderFrequency","AnnualSales","AnnualRevenue","YearOpened","Region","StoreAge"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="762" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe_prepared.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>AW_Sales_Europe_prepared.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="342" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="ProductKey" selected="True" type="V_String" size="19" />
+            <SelectField field="PostalCode" selected="False" />
+            <SelectField field="Sales Type" selected="True" rename="SalesType" />
+            <SelectField field="ResellerKey" selected="True" type="V_String" size="19" />
+            <SelectField field="CustomerKey" selected="True" type="V_String" size="19" />
+            <SelectField field="Profit" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="474" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="SalesOrderNumber" selected="True" />
+            <Field field="ProductKey" selected="True" />
+            <Field field="City" selected="True" />
+            <Field field="StateProvinceCode" selected="True" />
+            <Field field="CountryRegionCode" selected="True" />
+            <Field field="SalesType" selected="True" />
+            <Field field="ResellerKey" selected="True" />
+            <Field field="CustomerKey" selected="True" />
+            <Field field="ProductName" selected="True" />
+            <Field field="ProductSubcategory" selected="True" />
+            <Field field="ProductCategory" selected="True" />
+            <Field field="ResellerName" selected="True" />
+            <Field field="OrderFrequency" selected="True" />
+            <Field field="Region" selected="True" />
+            <Field field="StoreAge" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SalesOrderNumber" size="7" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="ProductKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Int16" />
+            <Field name="OrderQuantity" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="UnitPrice" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="SalesAmount" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="TotalProductCost" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="OrderDate" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Date" />
+            <Field name="ShipDate" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Date" />
+            <Field name="City" size="21" source="Formula: [_CurrentField_]" type="V_String" />
+            <Field name="StateProvinceCode" size="3" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="CountryRegionCode" size="2" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="DiscountAmount" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="SalesType" size="14" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="ResellerKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Int16" />
+            <Field name="CustomerKey" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Int16" />
+            <Field name="ProductName" size="32" source="Formula: [_CurrentField_]" type="V_String" />
+            <Field name="ProductSubcategory" size="17" source="Formula: [_CurrentField_]" type="V_String" />
+            <Field name="ProductCategory" size="11" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="Profit" source="Formula: [_CurrentField_]" type="Double" />
+            <Field name="ResellerName" size="34" source="Formula: [_CurrentField_]" type="V_String" />
+            <Field name="NumberEmployees" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="OrderFrequency" size="1" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="AnnualSales" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="AnnualRevenue" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="YearOpened" source="File: C:\Users\eaguilar023\Documents\Data Analytics Academy\AW_Sales_Europe.xlsx|||`Sales figures$` (BatchMacro) (BatchMacro)" type="Double" />
+            <Field name="Region" size="2" source="Formula: [_CurrentField_]" type="String" />
+            <Field name="StoreAge" size="7" source="Formula: [_CurrentField_]" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="630" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output26" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>AW_Europe_Sales_Figures</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
